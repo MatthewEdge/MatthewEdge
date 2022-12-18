@@ -1,5 +1,5 @@
-Backend developer, DevOps enthusiast, <a href="https://youtube.com/playlist?list=PL5WgwHl4ZzQ33iEoB8EhSpTJie4ro-371">former Twitch live coding streamer</a>, who
-currently is enjoying working in Go (mainly) and Rust (early learning).
+Backend developer, Systems Architect, DevOps enthusiast, <a href="https://youtube.com/playlist?list=PL5WgwHl4ZzQ33iEoB8EhSpTJie4ro-371">former Twitch live coding streamer</a>, who
+currently is enjoying working in Go (mainly), Scala, and a bit of dabbling on the Frontend.
 
 ## GitHub Stats Look Fun
 
