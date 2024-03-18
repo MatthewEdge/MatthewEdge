@@ -1,5 +1,4 @@
-Backend developer, Systems Architect, DevOps enthusiast, <a href="https://youtube.com/playlist?list=PL5WgwHl4ZzQ33iEoB8EhSpTJie4ro-371">former Twitch live coding streamer</a>, who
-currently is enjoying working in Go (mainly), Scala, and a bit of dabbling on the Frontend.
+Backend developer, Systems Architect, DevOps enthusiast, <a href="https://youtube.com/playlist?list=PL5WgwHl4ZzQ33iEoB8EhSpTJie4ro-371">and former Twitch live coding streamer</a>, who is currently enjoying working in Go on distributed systems and large scaling problems.
 
 My org-specific repositories that I tie to the Medgelabs brand can be found here: https://github.com/medgelabs
 
